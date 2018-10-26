@@ -1,0 +1,17 @@
+﻿  Parallel.cpp
+c:\users\samsung\desktop\parallel\parallel\parallel.cpp(87): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\samsung\desktop\parallel\parallel\parallel.cpp(181): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\samsung\desktop\parallel\parallel\parallel.cpp(182): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\samsung\desktop\parallel\parallel\parallel.cpp(188): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\samsung\desktop\parallel\parallel\parallel.cpp(189): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\samsung\desktop\parallel\parallel\parallel.cpp(275): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+  c:\users\samsung\desktop\parallel\parallel\parallel.cpp(275): note: consider using '%lld' in the format string
+  c:\users\samsung\desktop\parallel\parallel\parallel.cpp(275): note: consider using '%Id' in the format string
+  c:\users\samsung\desktop\parallel\parallel\parallel.cpp(275): note: consider using '%I64d' in the format string
+  Parallel.vcxproj -> C:\Users\samsung\Desktop\Parallel\x64\Debug\Parallel.exe
+  Parallel.vcxproj -> C:\Users\samsung\Desktop\Parallel\x64\Debug\Parallel.pdb (Full PDB)
